@@ -91,7 +91,12 @@ import (
 	"strings"
 )
 
-// countWords iterates over the content of io.Reader breaking it down into lines and summing the lengths of those lines as its output.  This is not necessarily the idiomatic way to achieve this goal in Go, but rather it is intended to give you the building blocks needed to break this imperative procedure into a map-reduce and aggregation pattern.
+// countWords iterates over the content of io.Reader breaking it down
+// into lines and summing the lengths of those lines as its output.
+// This is not necessarily the idiomatic way to achieve this goal in
+// Go, but rather it is intended to give you the building blocks
+// needed to break this imperative procedure into a map-reduce and
+// aggregation pattern.
 func countWords(input io.Reader) int {
 	var count int
 
