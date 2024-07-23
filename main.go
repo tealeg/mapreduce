@@ -56,7 +56,8 @@
 // 
 //     git clone git@github.com/tealeg/mapreduce
 //     cd mapreduce
-//     git checkout example-solution
+//     git fetch --all --tags
+//     git checkout tags/example-solution -b example-solution
 //
 // ─────────────────────────────────────────────────────────
 // Questions to answer after the exercise (together with your mentor)
