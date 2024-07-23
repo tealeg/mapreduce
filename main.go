@@ -17,6 +17,10 @@
 // completed in a pairing session with you mentor. It is *explicitly*
 // not a test.
 //
+// Neither the example solution, or the outcome of this session are
+// intended to be production-ready code as that level of rigour
+// may interfere with initial exploration and learning.
+//
 // ───────────────────
 // Purpose of the program
 // ───────────────────
