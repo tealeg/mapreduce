@@ -52,8 +52,11 @@
 //   4. Make an aggregator function that consumes a channel of
 //   integers and sums them ready for printing.
 //
-// A worked example is available in the main branch of the repo:
-//     github.com/tealeg/mapreduce
+// A worked example is available in the main branch of the repo with the tag "example-solution":
+// 
+//     git clone git@github.com/tealeg/mapreduce
+//     cd mapreduce
+//     git checkout example-solution
 //
 // ─────────────────────────────────────────────────────────
 // Questions to answer after the exercise (together with your mentor)
